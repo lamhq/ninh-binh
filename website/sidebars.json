@@ -1,10 +1,17 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "Lịch trình": [
+      "ngay-1", 
+      "ngay-2", 
+      "ngay-3"
+    ],
+    "Tham quan": [
+      "tham-quan/trang-an",
+      "tham-quan/tam-coc",
+      "tham-quan/chua-bai-dinh"
+    ],
+    "Ăn uống": [
+      "an-uong/de-nui-ninh-binh"
+    ]
   }
 }

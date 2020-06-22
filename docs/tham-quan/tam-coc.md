@@ -1,3 +1,8 @@
+---
+id: tam-coc
+title: Tam Cốc
+---
+
 # Tam Cốc
 
 ## Liên kết

@@ -3,8 +3,6 @@ id: ngay-1
 title: Ngày 1
 ---
 
-# Lịch trình ngày 1
-
 ## Sáng
 
 - Ăn sáng

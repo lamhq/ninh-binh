@@ -1,8 +1,11 @@
-# Tràng An
+---
+id: trang-an
+title: Tràng An
+---
 
 ## Liên kết
 
-- [Tràng An](https://goo.gl/maps/LEKEBU3X1qwkxZHt5)
+- [Đường đi](https://goo.gl/maps/LEKEBU3X1qwkxZHt5)
 - [KHU DANH THẮNG TRÀNG AN](http://trangandanhthang.vn/tin-tuc/khu-danh-thang-trang-an-20)
 
 

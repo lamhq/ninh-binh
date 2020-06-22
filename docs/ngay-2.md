@@ -5,7 +5,7 @@ title: Ngày 2
 
 # Sáng
 
-- [Tam Cốc](https://goo.gl/maps/K8hwBt9vk9xoBHGe6)
+- [Tam Cốc](https://goo.gl/maps/K8hwBt9vk9xoBHGe6).
 
 
 # Chiều

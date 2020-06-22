@@ -1,3 +1,8 @@
+---
+id: chua-bai-dinh
+title: Chùa Bái Đính
+---
+
 # Chùa Bái Đính
 
 ## Liên kết
