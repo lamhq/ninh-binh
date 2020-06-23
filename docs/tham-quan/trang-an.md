@@ -19,6 +19,9 @@ title: Tràng An
 
 ## Hoạt động
 
+- Tổng thời gian: 3 - 5 tiếng.
+- Phí tham quan: 200.000đ/khách – Trẻ em dưới 1m40: 100.000đ/khách
+
 ### Du lịch đường bộ
 
 - Với chiều dài 1,6 km, Du khách sẽ đi bộ, leo núi qua ba đèo liền nhau vào đền Trần.

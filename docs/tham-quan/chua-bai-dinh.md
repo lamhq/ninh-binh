@@ -36,6 +36,8 @@ Phần hội gồm các trò chơi dân gian, thăm thú hang động, vãn cả
 
 ## Hoạt động
 
+Tổng thời gian: 2 - 3 tiếng.
+
 Các điểm tham quan chính:
 
 - Cổng Tam Quan

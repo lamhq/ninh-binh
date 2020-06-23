@@ -20,9 +20,10 @@ Nếu như muốn tận mắt chiêm ngưỡng sắc vàng của đồng lúa ch
 
 ## Đặc điểm
 
+- Được mệnh danh là vịnh Hạ Long trên cạn
 - Cách Hà Nội khoảng 110 km, nằm trong quần thể danh thắng Tràng An
 - Tam Cốc, có nghĩa là “ba hang”, gồm hang Cả, hang Hai và hang Ba. Cả ba hang đều được tạo thành bởi dòng sông Ngô Đồng đâm xuyên qua núi.
-
+- Tam Cốc – Bích Động cũng như Tràng An đều ngồi đò, thuyền thăm các hang, động. Khác ở chỗ Tràng An có một vài hang động dài hơn so với Tam Cốc. Gần Tam Cốc Bích Động có làng Việt cổ Cố Viên Lầu cũng có nhiều điều thú vị.
 
 ## Hoạt động
 
