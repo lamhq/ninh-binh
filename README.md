@@ -11,7 +11,7 @@
 ## Cài đặt và chạy
 
 ```sh
-cd website
-npm start
+yarn
+yarn start
 ```
 
