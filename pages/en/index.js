@@ -7,19 +7,17 @@
 
 const React = require('react');
 
-class Index extends React.Component {
-  componentDidMount() {
-    window.location.href = 'docs/ngay-1.html';
+function Index() {
+  function createMarkup() {
+    return {__html: '<script>window.location.href = "docs/ngay-1.html";</script>'};
   }
 
-  render() {
-
-    return (
-      <div>
-        If you are not redirected automatically, follow this <a href="docs/ngay-1.html">link</a>.
-      </div>
-    );
-  }
+  return (
+    <div>
+      If you are not redirected automatically, follow this <a href="docs/ngay-1.html">link</a>.
+      <div dangerouslySetInnerHTML={createMarkup()} />
+    </div>
+  );
 }
 
 module.exports = Index;
