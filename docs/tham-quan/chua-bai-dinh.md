@@ -3,11 +3,10 @@ id: chua-bai-dinh
 title: Chùa Bái Đính
 ---
 
-# Chùa Bái Đính
-
 ## Liên kết
 
-- [Chùa Bái Đính](https://goo.gl/maps/MYyjf22f8hMoe874A)
+- [Bản đồ](https://goo.gl/maps/MYyjf22f8hMoe874A)
+- [Kinh nghiệm du lịch chùa Bái Đính](https://dulichfun.com/kinh-nghiem-du-lich-chua-bai-dinh-lich-trinh-an-uong-di-lai.html)
 - [Kế hoạch tự du xuân chùa Bái Đính](https://www.ivivu.com/blog/2015/03/ke-hoach-tu-du-xuan-chua-bai-dinh/)
 - [Kinh nghiệm đi chùa Bái Đính Ninh Bình cẩm nang từ A đến Z](https://www.vntrip.vn/cam-nang/chua-bai-dinh-35362)
 

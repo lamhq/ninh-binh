@@ -1,14 +1,19 @@
 ---
 id: ngay-3
-title: Ngày 3
+title: Ngày 3 (CN 28/06)
+sidebar_label: Ngày 3
 ---
 
-# Sáng
+## Sáng
 
-- Tuyệt Tịnh Cốc
-- Cố Đô Hoa Lư
+- Nhà thờ đá Phát Diệm
 
 
-# Chiều
+## Chiều
 
-Về lại SG.
+- Chùa Bái Đính
+
+
+## Tối
+
+- Mua quà lưu niệm
