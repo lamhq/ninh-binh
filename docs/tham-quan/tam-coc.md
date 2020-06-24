@@ -3,8 +3,6 @@ id: tam-coc
 title: Tam Cốc
 ---
 
-# Tam Cốc
-
 ## Liên kết
 
 - [Tam Cốc](https://goo.gl/maps/K8hwBt9vk9xoBHGe6)
