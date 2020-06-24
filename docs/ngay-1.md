@@ -7,12 +7,12 @@ sidebar_label: Ngày 1
 
 ## Sáng
 
-- **04:25**: thức dậy.
-- **04:55**: có mặt tại sân bay Tân Sơn Nhất.
-- **06:25**: máy bay cất cánh. ăn sáng trên máy bay.
-- **08:35**: có mặt sân bay Nội Bài. Đến [khách sạn](phu-luc#khách-sạn) bằng [xe khách](phu-luc#xe-khách).
-- **11:55**: có mặt tại khách sạn. Nhận phòng. Thuê xe máy.
-- **12:15**: ăn trưa tại [Nhà Hàng Dũng Phố Núi](https://goo.gl/maps/edGpFGgac88A5XEq8). [&#10132;](an-uong/de-com-chay). Đặc sản: thịt dê, cơm cháy.
+- **05:45**: thức dậy.
+- **06:30**: có mặt tại sân bay Tân Sơn Nhất.
+- **07:00**: máy bay cất cánh (VJ134). ăn sáng trên máy bay.
+- **09:10**: có mặt sân bay Nội Bài. Đến [khách sạn](phu-luc#khách-sạn) bằng [xe khách](phu-luc#xe-khách).
+- **12:10**: có mặt tại khách sạn. Nhận phòng. Thuê xe máy.
+- **12:40**: ăn trưa tại [Nhà Hàng Dũng Phố Núi](https://goo.gl/maps/edGpFGgac88A5XEq8). [&#10132;](an-uong/de-com-chay). Đặc sản: thịt dê, cơm cháy.
 
 
 ## Chiều

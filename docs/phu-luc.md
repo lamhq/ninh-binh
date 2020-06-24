@@ -6,7 +6,7 @@ title: Phụ lục
 
 ## Máy bay
 
-- Đi: 26/06, 06:25 -> 08:35, VJ122
+- Đi: 26/06, 07:00 -> 09:10, VJ134
 - Về: 29/06, 16:15 -> 18:25, VJ189
 
 Nên có mặt tại sân bay tối thiểu 90 phút trước giờ khởi hành đối với ngày thường và 120 phút đối với các ngày lễ, Tết.
