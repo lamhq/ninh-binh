@@ -22,9 +22,9 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Du lịch Ninh Bình', // Title for your website.
+  title: 'Ninh Bình 2020', // Title for your website.
   tagline: 'Cẩm nang du lịch Ninh Bình tự túc',
-  url: 'https://bit.ly/ninh-binh-260620', // Your website URL
+  url: 'https://bit.ly/ninh-binh-2020', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',

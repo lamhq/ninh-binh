@@ -30,7 +30,8 @@
         "sidebar_label": "Ngày 3"
       },
       "ngay-4": {
-        "title": "Ngày 4"
+        "title": "Ngày 4 (T2 29/06)",
+        "sidebar_label": "Ngày 4"
       },
       "phu-luc": {
         "title": "Phụ lục"
@@ -43,6 +44,9 @@
       },
       "tham-quan/co-do-hoa-lu": {
         "title": "tham-quan/co-do-hoa-lu"
+      },
+      "tham-quan/hang-mua": {
+        "title": "tham-quan/hang-mua"
       },
       "tham-quan/nha-tho-phat-diem": {
         "title": "Nhà thờ đá Phát Diệm"

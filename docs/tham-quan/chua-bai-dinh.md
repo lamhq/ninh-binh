@@ -3,6 +3,11 @@ id: chua-bai-dinh
 title: Chùa Bái Đính
 ---
 
+## Lưu ý
+
+- Nhớ đi xe điện, 60k thôi nhưng tiết kiệm khá nhiều thời gian.
+
+
 ## Liên kết
 
 - [Bản đồ](https://goo.gl/maps/MYyjf22f8hMoe874A)
