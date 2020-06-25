@@ -14,16 +14,41 @@ Nên có mặt tại sân bay tối thiểu 90 phút trước giờ khởi hành
 
 ## Khách sạn
 
-[Tamcoc luxury homestay](https://www.booking.com/hotel/vn/tam-coc-luxury-homestay.vi.html)
-[Bản đồ](https://goo.gl/maps/G86KTcEw4aMjyaYE8)
+### Tamcoc luxury homestay
 
-098 401 2384
+- [Bản đồ](https://goo.gl/maps/G86KTcEw4aMjyaYE8)
+- [Thông tin](https://www.booking.com/hotel/vn/tam-coc-luxury-homestay.vi.html)
+- Điện thoại: 098 401 2384
 
 
 ## Xe khách
 
+Vẫn còn là một bí mật.
+
+
+## Nhà thờ
+
+### Giáo Xứ Ninh Bình
+
+- [Bản đồ](https://goo.gl/maps/CUxh8LvN5iGc4cJE6)
+- Điện thoại: +84966666499
+- Giờ lễ:
+  - T7: 19h
+  - CN: 5h00, 8h30, 19h30
+
+### Nhà thờ Phát Diệm
+
+- [Bản đồ](https://goo.gl/maps/LXsUFF92LtWTamyE6)
+- Giờ lễ:
+  - CN: 09:30
+- Thời gian di chuyển: ~50p
 
 
 ## Quà mang về
 
-Đến Ninh Bình, bạn có thể mua đặc sản cơm cháy, rượu Kim Sơn hoặc những vật lưu niệm nhỏ như bùa may mắn, vòng tay, hạt đậu… ở chùa bái Đính về làm quà.
+- cơm cháy ruốc
+- nem Yên Mạc
+- mắm tép Gia Viễn
+- nem dê
+- rượu cần Nho Quan
+- vật lưu niệm nhỏ như bùa may mắn, vòng tay, hạt đậu… ở chùa bái Đính

@@ -7,17 +7,16 @@ sidebar_label: Ngày 1
 
 ## Sáng
 
-- **05:45**: thức dậy.
-- **06:30**: có mặt tại sân bay Tân Sơn Nhất.
+- **04:50**: thức dậy.
+- **05:30**: có mặt tại sân bay Tân Sơn Nhất.
 - **07:00**: máy bay cất cánh (VJ134). ăn sáng trên máy bay.
-- **09:10**: có mặt sân bay Nội Bài. Đến [khách sạn](phu-luc#khách-sạn) bằng [xe khách](phu-luc#xe-khách).
-- **12:10**: có mặt tại khách sạn. Nhận phòng. Thuê xe máy.
-- **12:40**: ăn trưa tại [Nhà Hàng Dũng Phố Núi](https://goo.gl/maps/edGpFGgac88A5XEq8). [&#10132;](an-uong/de-com-chay). Đặc sản: thịt dê, cơm cháy.
+- **09:10**: có mặt sân bay Nội Bài. Đến khách sạn [Tamcoc luxury homestay](https://goo.gl/maps/G86KTcEw4aMjyaYE8) [&#10132;](phu-luc#khách-sạn) bằng xe khách.
+- **12:10**: có mặt tại khách sạn. Nhận phòng. Thuê xe máy. Ăn trưa tại [Nhà Hàng Dũng Phố Núi](https://goo.gl/maps/edGpFGgac88A5XEq8). [&#10132;](an-uong/de-com-chay). Đặc sản: thịt dê, cơm cháy.
 
 
 ## Chiều
 
-- **14:00**: đi xe máy tới [Khu du lịch Tràng An](https://goo.gl/maps/LEKEBU3X1qwkxZHt5) [&#10132;](tham-quan/trang-an)
+- **14:00**: đi xe máy tới [Khu du lịch Tràng An](https://goo.gl/maps/MKVBXxwbeJ7p7aEo7) [&#10132;](tham-quan/trang-an)
 - **17:00**: về khách sạn.
 
 
@@ -25,4 +24,3 @@ sidebar_label: Ngày 1
 
 - **18:00**: ăn tối tại [Miến lươn bà Phấn](https://goo.gl/maps/u9QpcFtCYAdftiUY8) [&#10132;](an-uong/mien-luon)
 - **19:00**: Dạo chơi tại [phố Cù Chính Lan](https://goo.gl/maps/Ep3HFwNpCowTYByg7), thưởng thức món [Chân gà nướng](https://goo.gl/maps/qwhP2rPpS5Pv2bps7)
-- **21:00**: Về khách sạn

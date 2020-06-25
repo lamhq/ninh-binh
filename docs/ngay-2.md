@@ -14,10 +14,15 @@ sidebar_label: Ngày 2
 
 ## Chiều
 
-- **14:00**: tham quan Hang múa
+- **14:00**: tham quan [Hang múa](https://goo.gl/maps/eVAaUcRZjLGPRyGM7)
 
 
 ## Tối
 
 - **18:30**: ăn tối tại [Nhà hàng chim trời Bình Nhũng](https://goo.gl/maps/feJwF7oCG7njmFmVA)
 - **19:15**: dạo chơi tại [phố đi bộ Đào Duy Từ](https://goo.gl/maps/Ecnetj65uubjwGx39)
+
+
+### Plan B (dành cho ai đi lễ)
+
+- **18:30**: Đi lễ tại [Giáo Xứ Ninh Bình](https://goo.gl/maps/CUxh8LvN5iGc4cJE6)

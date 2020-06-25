@@ -8,14 +8,13 @@ sidebar_label: Ngày 3
 
 - **06:30**: thức dậy.
 - **07:00**: ăn sáng tại [Bún chả Tình Mai](https://goo.gl/maps/pNARbvV7er5JtTJ18).
-- **07:30**: đến Nhà thờ đá Phát Diệm
-- **09:30**: bắt đầu giờ lễ
+- **07:40**: Thung Nắng, Vườn chim Thung Nham.
 - **11:30**: ăn trưa tại [Nhà Hàng Quốc Quân](https://g.page/nhahangquocquan?share). Đặc sản: thịt dê, cơm cháy, ốc núi.
 
 
 ## Chiều
 
-- **14:00**: tham quan Chùa Bái Đính
+- **14:00**: tham quan [Chùa Bái Đính](https://goo.gl/maps/DURrcRjofNz7kqMx8), [Đầm Vân Long](https://goo.gl/maps/dXGWPwMGCCST8tVLA) [&#10132;](https://www.vntrip.vn/cam-nang/dam-van-long-34809)
 
 
 ## Tối
