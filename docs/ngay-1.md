@@ -9,7 +9,7 @@ sidebar_label: Ngày 1
 
 - **04:50**: thức dậy.
 - **05:30**: có mặt tại sân bay Tân Sơn Nhất.
-- **07:00**: máy bay cất cánh (VJ134). ăn sáng trên máy bay.
+- **07:00**: máy bay cất cánh (VJ134 / QKG8HE). ăn sáng trên máy bay.
 - **09:10**: có mặt sân bay Nội Bài. Đến khách sạn [Tamcoc luxury homestay](https://goo.gl/maps/G86KTcEw4aMjyaYE8) [&#10132;](phu-luc#khách-sạn) bằng xe khách.
 - **12:10**: có mặt tại khách sạn. Nhận phòng. Thuê xe máy. Ăn trưa tại [Nhà Hàng Dũng Phố Núi](https://goo.gl/maps/edGpFGgac88A5XEq8). [&#10132;](an-uong/de-com-chay). Đặc sản: thịt dê, cơm cháy.
 
